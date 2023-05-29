@@ -26,7 +26,17 @@ Link tham khảo :
 - Link 2 : https://github.com/TechMaster/SpringBootBasic
 - Link 3 : [Tại đây](https://quantrimang.com/cong-nghe/cu-phap-markdown-can-ban-163963)
 
+---
 
 Hình minh họa:
 
 ![ảnh minh họa](https://images.unsplash.com/photo-1682685796775-020fd5dcd7d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=800&q=60)
+
+
+## Table
+
+| Tables   |      Are      |  Cool |
+|----------|-------------|-----|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
