@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1320px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cart-item {
+    flex-basis: 25%;
+    padding: 0 15px;
+}
+
+.card {
+    height: 370px;
+    background-color: brown;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
