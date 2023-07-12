@@ -91,3 +91,8 @@ const sortByPrice = (arr) => {
     return arr.sort((p1, p2) => p1.price - p2.price)
 }
 console.log(sortByPrice(products))
+
+
+const getRamdomNumber = (min, max) => {
+    
+}
