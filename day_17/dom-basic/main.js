@@ -113,3 +113,5 @@ h2.innerText = "Đây là thẻ h2";
 
 // document.body.replaceChild(h2, heading);
 heading.parentElement.replaceChild(h2, heading);
+
+console.log(ul2.childNodes);
